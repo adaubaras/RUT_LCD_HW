@@ -1,0 +1,14 @@
+Change Value of Parameter Link in Part P2 Old=https://www.rutronik24.com/search-result/qs:10129380910002ALF/reset:0 New=https://www.rutronik24.com/search-result/qs:10129380-910002ALF/reset:0
+Change Value of Parameter Supplier part number in Part P2 Old= New=10129380910002ALF
+Change Value of Parameter Link in Part P3 Old= New=https://www.rutronik24.com/search-result/qs:10129380-908002ALF/reset:0
+Change Value of Parameter Manufacturer in Part P3 Old= New=Amphenol ICC
+Change Value of Parameter Part Description in Part P3 Old=Arduino Connector New=SMT Header
+Change Value of Parameter Supplier part number in Part P3 Old= New=10129380908002ALF
+Added Parameter Link=https://www.rutronik24.com/search-result/qs:5035663902/reset:0 to Part P1
+Added Parameter Manufacturer=Molex to Part P1
+Added Parameter Manufacturer Part No.=5035663902 to Part P1
+Added Parameter Part Description=FPC Connector, 0.30mm Pitch, Right-Angle, Bottom Contact, 0.95mm Height, 39 Circuits, Gold over Nickel Plating to Part P1
+Added Parameter Specification=SMT, 0,3mm pitch 39 circuits to Part P1
+Added Parameter Supplier=Rutronik to Part P1
+Added Parameter Supplier part number=5035663902 to Part P1
+Added Parameter Value=5035663902 to Part P1

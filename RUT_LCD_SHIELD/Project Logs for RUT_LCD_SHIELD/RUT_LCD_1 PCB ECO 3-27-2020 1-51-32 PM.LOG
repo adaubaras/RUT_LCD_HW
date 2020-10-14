@@ -1,0 +1,4 @@
+Added Component: Designator=LD1(LCD MODULE YB-TG240320C243A-C-A0)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3 Pin=R5-1
+Added Member To Class: ClassName=LCD Member=Component LD1 YB-TG240320C243A-C-A0_1

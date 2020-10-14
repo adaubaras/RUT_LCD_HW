@@ -1,0 +1,41 @@
+Change Component Footprint: Designator=R_FB1 Old Footprint=6-0805_N New Footprint=AXIAL-0.3
+Added Component: Designator=C2(C0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/search-result/qs:KKS2857/reset:0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "CL05A106MP5NUNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "X5R, 10V, 20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "KKS2857"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/murata/grm155r61e105ka12d/4725132.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "GRM155R61E105KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "X5R, 25V, 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "KKS4987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/murata/grm155r61e105ka12d/4725132.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "GRM155R61E105KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "X5R, 25V, 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "KKS4987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=3V3 Pin=C2-2
+Added Pin To Net: NetName=LED_A Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=3V3_AUX Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Member To Class: ClassName=LCD Member=Component C2 Cap Semi
+Added Member To Class: ClassName=LCD Member=Component C3 Cap Semi
+Added Member To Class: ClassName=LCD Member=Component C4 Cap Semi

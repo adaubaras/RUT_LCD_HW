@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=LED_A Pin=P1-1
+Removed Pin From Net: NetName=LED_K Pin=P1-2
+Removed Pin From Net: NetName=3V3 Pin=P1-3
+Removed Pin From Net: NetName=SPI_MISO Pin=P1-4
+Removed Pin From Net: NetName=TE Pin=P1-5
+Removed Pin From Net: NetName=SPI_MOSI Pin=P1-24
+Removed Pin From Net: NetName=GND Pin=P1-25
+Removed Pin From Net: NetName=GND Pin=P1-27
+Removed Pin From Net: NetName=ENABLE Pin=P1-28
+Removed Pin From Net: NetName=SPI_CS Pin=P1-34
+Removed Pin From Net: NetName=RESET Pin=P1-35
+Removed Pin From Net: NetName=3V3 Pin=P1-38
+Removed Member From Class: ClassName=LCD Member=P1
+Change Component Designator: OldDesignator=TP5 NewDesignator=D/CX
+Change Component Designator: OldDesignator=TP6 NewDesignator=SPI_CLK
+Change component parameters: Designator = "R4"; Footprint = "0402"; UniqueID = "\FOUSNQNE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/asj/cr10-103-jk/54295.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ASJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "CR10-103-JK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "Thick Film Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "5% 0,063W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = "WRC40976"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "0402"; UniqueID = "\RZPTZZHB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/asj/cr10-103-jk/54295.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ASJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "CR10-103-JK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "Thick Film Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "5% 0,063W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = "WRC40976"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7"; Footprint = "0402"; UniqueID = "\JZTNCRVV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/asj/cr10-103-jk/54295.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ASJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "CR10-103-JK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "Thick Film Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "5% 0,063W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = "WRC40976"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8"; Footprint = "0402"; UniqueID = "\IWUFLSEJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/asj/cr10-103-jk/54295.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ASJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "CR10-103-JK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "Thick Film Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "5% 0,063W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = "WRC40976"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=GND(5019_keystone)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/keystone/pn5019/7028403.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electrincs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "5019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMT Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "3.81*2.03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "BAT4950"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5019"; VariantName = "[No Variations]"
+Added Component: Designator=LD1(LCD MODULE YB-TG240320C243A-C-A0)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=KEY1 Pin=P6-2
+Added Pin To Net: NetName=KEY2 Pin=P6-3
+Added Pin To Net: NetName=KEY3 Pin=P6-4
+Added Pin To Net: NetName=KEY4 Pin=P6-5
+Added Pin To Net: NetName=KEY5 Pin=P6-6
+Added Pin To Net: NetName=GND Pin=P6-8
+Added Pin To Net: NetName=SPI_CLK Pin=SPI_CLK-1
+Added Pin To Net: NetName=D/CX Pin=D/CX-1
+Added Pin To Net: NetName=D/CX Pin=P4-6
+Added Net: Name=D/CX
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=R7-1
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=R8-1
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R9-2
+Added Net: Name=NetR6_2
+Added Member To Class: ClassName=LCD Member=Component GND GND Test Point
+Added Member To Class: ClassName=LCD Member=Component LD1 YB-TG240320C243A-C-A0_1

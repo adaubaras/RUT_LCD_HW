@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [RUT_LCD_SHIELD.PrjPcb]
+   Generated File[RUT_LCD_1.GTO]
+   Generated File[RUT_LCD_1.GTP]
+   Generated File[RUT_LCD_1.GTS]
+   Generated File[RUT_LCD_1.GTL]
+   Generated File[RUT_LCD_1.GBL]
+   Generated File[RUT_LCD_1.GBS]
+   Generated File[RUT_LCD_1.GBP]
+   Generated File[RUT_LCD_1.GBO]
+   Generated File[RUT_LCD_1.GM1]
+   Generated File[RUT_LCD_1.GKO]
+   Generated File[RUT_LCD_1.RUL]
+   Generated File[RUT_LCD_1.EXTREP]
+   Generated File[RUT_LCD_1.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 17:20:40 On 4/6/2020

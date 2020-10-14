@@ -1,0 +1,6 @@
+Change Value of Parameter Link in Part R_FB1 Old=https://eu.mouser.com/ProductDetail/Vishay-Beyschlag/MCS04020C1009FE000?qs=sGAEpiMZZMu61qfTUdNhG%2FwwRiJvfR8neD9ATJQ45Og%3D New=https://www.rutronik24.com/product/yageo/rc0402fr-1310rl/5408359.html
+Change Value of Parameter Part Description in Part R_FB1 Old=Thin Film Resistors New=Thick Film Resistor
+Added Parameter Manufacturer=YAGEO to Part R_FB1
+Added Parameter Manufacturer Part No.=RC0402FR-1310RL to Part R_FB1
+Added Parameter Supplier=Rutronik to Part R_FB1
+Added Parameter Supplier part number=WRC54149 to Part R_FB1

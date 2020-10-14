@@ -1,0 +1,31 @@
+Change Value of Parameter Value in Part R1 Old=1M New=10K
+Change Value of Parameter Link in Part R2 Old=https://www.rutronik24.com/product/asj/cr10-103-jk/54295.html New=https://www.rutronik24.com/product/asj/cr10-472-jk/54393.html
+Change Value of Parameter Manufacturer Part No. in Part R2 Old=CR10-103-JK New=CR10-472-JK
+Change Value of Parameter Supplier part number in Part R2 Old=WRC40976 New=WRC41427
+Change Value of Parameter Link in Part R3 Old=https://www.rutronik24.com/product/asj/cr10-103-jk/54295.html New=https://www.rutronik24.com/product/asj/cr10-472-jk/54393.html
+Change Value of Parameter Manufacturer Part No. in Part R3 Old=CR10-103-JK New=CR10-472-JK
+Change Value of Parameter Supplier part number in Part R3 Old=WRC40976 New=WRC41427
+Change Value of Parameter Link in Part R5 Old=https://www.rutronik24.com/product/asj/cr10-103-jk/54295.html New=
+Change Value of Parameter Manufacturer in Part R5 Old=ASJ New=
+Change Value of Parameter Manufacturer Part No. in Part R5 Old=CR10-103-JK New=
+Change Value of Parameter Part Description in Part R5 Old=Thick Film Resistor New=Not mounted
+Change Value of Parameter Specification in Part R5 Old=5% 0,063W New=
+Change Value of Parameter Supplier in Part R5 Old=Rutronik New=
+Change Value of Parameter Supplier part number in Part R5 Old=WRC40976 New=
+Change Value of Parameter Link in Part R7 Old=https://www.rutronik24.com/product/asj/cr10-103-jk/54295.html New=
+Change Value of Parameter Manufacturer in Part R7 Old=ASJ New=
+Change Value of Parameter Manufacturer Part No. in Part R7 Old=CR10-103-JK New=
+Change Value of Parameter Part Description in Part R7 Old=Thick Film Resistor New=Not mounted
+Change Value of Parameter Specification in Part R7 Old=5% 0,063W New=
+Change Value of Parameter Supplier in Part R7 Old=Rutronik New=
+Change Value of Parameter Link in Part R9 Old=https://www.rutronik24.com/product/asj/cr10-103-jk/54295.html New=
+Change Value of Parameter Manufacturer in Part R9 Old=ASJ New=
+Change Value of Parameter Manufacturer Part No. in Part R9 Old=CR10-103-JK New=
+Change Value of Parameter Part Description in Part R9 Old=Thick Film Resistor New=Not mounted
+Change Value of Parameter Specification in Part R9 Old=5% 0,063W New=
+Change Value of Parameter Supplier in Part R9 Old=Rutronik New=
+Change Value of Parameter Link in Part R_FB1 Old=https://www.rutronik24.com/product/yageo/rc0402fr-1310rl/5408359.html New=https://www.rutronik24.com/product/asj/cr10-10r0-fk/52610.html
+Change Value of Parameter Manufacturer in Part R_FB1 Old=YAGEO New=ASJ
+Change Value of Parameter Manufacturer Part No. in Part R_FB1 Old=RC0402FR-1310RL New=CR10-10R0-FK
+Change Value of Parameter Supplier part number in Part R_FB1 Old=WRC54149 New=WRC36380
+Added Parameter Supplier part number=BU21077MUV-E2 to Part U1

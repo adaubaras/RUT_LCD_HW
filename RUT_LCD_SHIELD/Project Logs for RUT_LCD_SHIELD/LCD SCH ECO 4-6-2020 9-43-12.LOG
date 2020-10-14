@@ -1,0 +1,6 @@
+Change Value of Parameter Link in Part L1 Old=https://www.rutronik24.com/search-result/qs:BWVC00201610220M00/reset:0 New=https://www.rutronik24.com/search-result/qs:BWVC00201612220M00/reset:0
+Change Value of Parameter Manufacturer Part No. in Part L1 Old=BWVC00201610220M00 New=BWVC00201612220M00
+Change Value of Parameter Supplier Part Number 1 in Part L1 Old=BWVC00201610220200 New=
+Added Parameter Part Description=Inductor to Part L1
+Added Parameter Specification=2x1.6x1.2mm Irms 0.36A to Part L1
+Added Parameter Supplier=Rutronik to Part L1

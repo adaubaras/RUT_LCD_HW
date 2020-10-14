@@ -1,0 +1,368 @@
+Removed Pin From Net: NetName=TE Pin=P3-1
+Removed Pin From Net: NetName=LED_CTRL Pin=P3-3
+Removed Pin From Net: NetName=KEY5 Pin=P3-4
+Removed Pin From Net: NetName=KEY4 Pin=P3-5
+Removed Pin From Net: NetName=KEY3 Pin=P3-6
+Removed Pin From Net: NetName=KEY2 Pin=P3-7
+Removed Pin From Net: NetName=KEY1 Pin=P3-8
+Removed Member From Class: ClassName=LCD Member=P11
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X10 New Footprint=Header SMT 2.54mm 1row 10way
+Change Component Designator: OldDesignator=C3 NewDesignator=C6
+Change Component Designator: OldDesignator=C4 NewDesignator=C7
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P4
+Change Component Designator: OldDesignator=P4 NewDesignator=P5
+Change Component Designator: OldDesignator=P11 NewDesignator=P1
+Change Component Designator: OldDesignator=P12 NewDesignator=P6
+Change Component Designator: OldDesignator=R1 NewDesignator=R4
+Change Component Designator: OldDesignator=R2 NewDesignator=R5
+Change Component Designator: OldDesignator=R3 NewDesignator=R6
+Change Component Designator: OldDesignator=R4 NewDesignator=R7
+Change Component Designator: OldDesignator=R5 NewDesignator=R8
+Change Component Designator: OldDesignator=R6 NewDesignator=R9
+Change Component Designator: OldDesignator=TP2 NewDesignator=1
+Change Component Designator: OldDesignator=TP5 NewDesignator=CS1
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP6
+Added Component: Designator=2(TP_SMD_Ø1.0mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Artikkelnr Noca"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Doc"; Value = "TP_SMD_Ø1.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2013-06-11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TP_SMD_Ø1.0MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number IPS"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2013-06-11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Ø1.0mm,SMD"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/murata/grm155r61e105ka12d/4725132.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "GRM155R61E105KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "X5R, 25V, 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "KKS4987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/murata/grm155r61e105ka12d/4725132.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "GRM155R61E105KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "X5R, 25V, 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "KKS4987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/murata/grm155r61e105ka12d/4725132.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "GRM155R61E105KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "X5R, 25V, 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "KKS4987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=CTRL1(TP_SMD_Ø1.0mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Artikkelnr Noca"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Doc"; Value = "TP_SMD_Ø1.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2013-06-11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TP_SMD_Ø1.0MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number IPS"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2013-06-11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Ø1.0mm,SMD"; VariantName = "[No Variations]"
+Added Component: Designator=EN1(TP_SMD_Ø1.0mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Artikkelnr Noca"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Doc"; Value = "TP_SMD_Ø1.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2013-06-11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TP_SMD_Ø1.0MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number IPS"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2013-06-11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Ø1.0mm,SMD"; VariantName = "[No Variations]"
+Added Component: Designator=INT1(TP_SMD_Ø1.0mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Artikkelnr Noca"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Doc"; Value = "TP_SMD_Ø1.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2013-06-11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TP_SMD_Ø1.0MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number IPS"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2013-06-11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Ø1.0mm,SMD"; VariantName = "[No Variations]"
+Added Component: Designator=MISO1(TP_SMD_Ø1.0mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Artikkelnr Noca"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Doc"; Value = "TP_SMD_Ø1.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2013-06-11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TP_SMD_Ø1.0MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number IPS"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2013-06-11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Ø1.0mm,SMD"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/asj/cr10-103-jk/54295.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ASJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "CR10-103-JK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Thick Film Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "5% 0,063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "WRC40976"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/asj/cr10-103-jk/54295.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ASJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "CR10-103-JK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Thick Film Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "5% 0,063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "WRC40976"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/asj/cr10-103-jk/54295.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ASJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "CR10-103-JK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Thick Film Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "5% 0,063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "WRC40976"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Added Component: Designator=RESET1(TP_SMD_Ø1.0mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Artikkelnr Noca"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Doc"; Value = "TP_SMD_Ø1.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2013-06-11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TP_SMD_Ø1.0MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number IPS"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2013-06-11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Ø1.0mm,SMD"; VariantName = "[No Variations]"
+Added Component: Designator=SB1(Solderbridge_Shorted)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Artikkelnr Noca"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Doc"; Value = "Solderbridge_Shorted"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2012-08-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Solderbridge Shorted"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number IPS"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2012-08-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Solderbridge"; VariantName = "[No Variations]"
+Added Component: Designator=SB2(Solderbridge)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Artikkelnr Noca"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Doc"; Value = "Solderbridge"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2009-12-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Solderbridge"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number IPS"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2009-12-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Solderbridge"; VariantName = "[No Variations]"
+Added Component: Designator=TE1(TP_SMD_Ø1.0mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Artikkelnr Noca"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Doc"; Value = "TP_SMD_Ø1.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2013-06-11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TP_SMD_Ø1.0MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number IPS"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2013-06-11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Ø1.0mm,SMD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=3V3 Pin=C5-2
+Added Pin To Net: NetName=3V3 Pin=C7-1
+Added Pin To Net: NetName=LED_CTRL Pin=CTRL1-1
+Added Pin To Net: NetName=ENABLE Pin=EN1-1
+Added Pin To Net: NetName=3V3 Pin=IC1-2
+Added Pin To Net: NetName=3V3 Pin=L1-1
+Added Pin To Net: NetName=SPI_MISO Pin=MISO1-1
+Added Pin To Net: NetName=LED_CTRL Pin=P4-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=3V3 Pin=R2-2
+Added Pin To Net: NetName=3V3 Pin=R3-1
+Added Pin To Net: NetName=3V3 Pin=R5-1
+Added Pin To Net: NetName=RESET Pin=RESET1-1
+Added Pin To Net: NetName=TE Pin=TE1-1
+Change Net Name : Old Net Name=NetP11_26 New Net Name=NetP1_26
+Change Net Name : Old Net Name=NetP11_29 New Net Name=NetP1_29
+Change Net Name : Old Net Name=NetP11_30 New Net Name=NetP1_30
+Change Net Name : Old Net Name=NetP11_31 New Net Name=NetP1_31
+Change Net Name : Old Net Name=NetP11_32 New Net Name=NetP1_32
+Change Net Name : Old Net Name=NetP11_36 New Net Name=NetP1_36
+Change Net Name : Old Net Name=NetP11_37 New Net Name=NetP1_37
+Change Net Name : Old Net Name=NetP11_39 New Net Name=NetP1_39
+Added Pin To Net: NetName=INT Pin=INT1-1
+Added Pin To Net: NetName=INT Pin=R1-2
+Added Pin To Net: NetName=INT Pin=SB1-2
+Added Pin To Net: NetName=INT Pin=SB2-2
+Added Net: Name=INT
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_1 Pin=SB1-1
+Added Net: Name=NetP4_1
+Added Pin To Net: NetName=NetP4_4 Pin=P4-4
+Added Pin To Net: NetName=NetP4_4 Pin=SB2-1
+Added Net: Name=NetP4_4
+Added Pin To Net: NetName=SCL Pin=P2-10
+Added Pin To Net: NetName=SCL Pin=R3-2
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=P2-9
+Added Pin To Net: NetName=SDA Pin=R2-1
+Added Net: Name=SDA
+Added Member To Class: ClassName=LCD Member=Component 2 Ø1.0mm,SMD
+Added Member To Class: ClassName=LCD Member=Component C5 1uF
+Added Member To Class: ClassName=LCD Member=Component C6 Cap Semi
+Added Member To Class: ClassName=LCD Member=Component C7 Cap Semi
+Added Member To Class: ClassName=LCD Member=Component CS1 Ø1.0mm,SMD
+Added Member To Class: ClassName=LCD Member=Component CTRL1 Ø1.0mm,SMD
+Added Member To Class: ClassName=LCD Member=Component EN1 Ø1.0mm,SMD
+Added Member To Class: ClassName=LCD Member=Component INT1 Ø1.0mm,SMD
+Added Member To Class: ClassName=LCD Member=Component MISO1 Ø1.0mm,SMD
+Added Member To Class: ClassName=LCD Member=Component P5 ANALOG
+Added Member To Class: ClassName=LCD Member=Component R7 Res2
+Added Member To Class: ClassName=LCD Member=Component R8 Res2
+Added Member To Class: ClassName=LCD Member=Component R9 Res2
+Added Member To Class: ClassName=LCD Member=Component RESET1 Ø1.0mm,SMD
+Added Member To Class: ClassName=LCD Member=Component SB1 Solderbridge
+Added Member To Class: ClassName=LCD Member=Component SB2 Solderbridge
+Added Member To Class: ClassName=LCD Member=Component TE1 Ø1.0mm,SMD
+Added Member To Class: ClassName=LCD Member=Component TP2 Ø1.0mm,SMD
+Added Member To Class: ClassName=LCD Member=Component TP6 Ø1.0mm,SMD

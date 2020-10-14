@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=P1 Old Footprint=FPC-39 New Footprint=FPC-39-0.3mm
+Added Pin To Net: NetName=NetP1_39 Pin=R5-1
+Added Member To Class: ClassName=LCD Member=Component C3 2.2uF
+Added Member To Class: ClassName=LCD Member=Component C4 1uF
+Added Member To Class: ClassName=LCD Member=Component P1 P
+Added Member To Class: ClassName=LCD Member=Component P3 POWER
+Added Member To Class: ClassName=LCD Member=Component P4 DIGITAL 2
+Added Member To Class: ClassName=LCD Member=Component R1 1M
+Added Member To Class: ClassName=LCD Member=Component R2 4.7K
+Added Member To Class: ClassName=LCD Member=Component R3 4.7K
+Added Member To Class: ClassName=LCD Member=Component R4 Res2
+Added Member To Class: ClassName=LCD Member=Component R5 Res2
+Added Member To Class: ClassName=LCD Member=Component TP2 Ø1.0mm,SMD
+Added Member To Class: ClassName=LCD Member=Component TP5 Ø1.0mm,SMD

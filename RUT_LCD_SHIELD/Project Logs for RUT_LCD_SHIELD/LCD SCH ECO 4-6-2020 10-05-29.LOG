@@ -1,0 +1,29 @@
+Removed Parameter Supplier Part Number 1:* from Part 3v3
+Removed Parameter Supplier Part Number 1:* from Part CTRL
+Removed Parameter Supplier Part Number 1:* from Part D/CX
+Removed Parameter Supplier Part Number 1:* from Part EN1
+Removed Parameter Supplier Part Number 1:* from Part INT1
+Removed Parameter Supplier Part Number 1: from Part L1
+Removed Parameter Supplier Part Number 1:* from Part LED+
+Removed Parameter Supplier Part Number 1:* from Part LED-
+Removed Parameter Supplier Part Number 1:* from Part RESET1
+Removed Parameter Supplier Part Number 1:* from Part SB1
+Removed Parameter Supplier Part Number 1:* from Part SB2
+Removed Parameter Supplier Part Number 1:* from Part SB3
+Removed Parameter Supplier Part Number 1:* from Part SB4
+Removed Parameter Supplier Part Number 1:* from Part SPI_CLK
+Removed Parameter Supplier Part Number 1:* from Part SPI_CS
+Removed Parameter Supplier Part Number 1:* from Part SPI_MISO
+Removed Parameter Supplier Part Number 1:* from Part SPI_MOSI
+Removed Parameter Supplier Part Number 1:WM11082CT-ND from Part P6
+Change Value of Parameter Link in Part P4 Old=https://www.rutronik24.com/search-result/qs:10129380-906002BLF/reset:0 New=https://www.rutronik24.com/search-result/qs:10129380-908002ALF/reset:0
+Change Value of Parameter Manufacturer Part No. in Part P4 Old=10129380-906002BLF New=10129380-908002ALF
+Change Value of Parameter Supplier part number in Part P4 Old=10129380906002BLF New=10129380908002ALF
+Change Value of Parameter Value in Part P4 Old=10129380-906002BLF New=10129380-908002ALF
+Change Value of Parameter Link in Part P5 Old= New=https://www.rutronik24.com/search-result/qs:10129380-906002BLF/reset:0
+Change Value of Parameter Manufacturer in Part P5 Old= New=Amphenol ICC
+Change Value of Parameter Manufacturer Part No. in Part P5 Old= New=10129380-906002BLF
+Change Value of Parameter Supplier part number in Part P5 Old= New=10129380908002ALF
+Change Value of Parameter Value in Part P5 Old= New=10129380-906002BLF
+Added Parameter Manufacturer Part No.=0528920833 to Part P6
+Added Parameter Specification=SMT, 0,5mm 8 circuits bottom right angle to Part P6

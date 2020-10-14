@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=LCD Member=LD1
+Change Component Designator: OldDesignator=P2 NewDesignator=P1
+Added Pin To Net: NetName=NetP1_39 Pin=R5-1
+Added Member To Class: ClassName=LCD Member=Component P2 DIGITAL 1

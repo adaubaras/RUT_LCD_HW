@@ -1,0 +1,14 @@
+Change Value of Parameter Value in Part 3v3 Old=Ø1.0mm,SMD New=Test point
+Change Value of Parameter Value in Part CTRL Old=Ø1.0mm,SMD New=Test point
+Change Value of Parameter Value in Part D/CX Old=Ø1.0mm,SMD New=Test point
+Change Value of Parameter Value in Part EN1 Old=Ø1.0mm,SMD New=Test point
+Change Value of Parameter Value in Part INT1 Old=Ø1.0mm,SMD New=Test point
+Change Value of Parameter Value in Part LED+ Old=Ø1.0mm,SMD New=Test point
+Change Value of Parameter Value in Part LED- Old=Ø1.0mm,SMD New=Test point
+Change Value of Parameter Value in Part RESET1 Old=Ø1.0mm,SMD New=Test point
+Change Value of Parameter Value in Part SPI_CLK Old=Ø1.0mm,SMD New=Test point
+Change Value of Parameter Value in Part SPI_CS Old=Ø1.0mm,SMD New=Test point
+Change Value of Parameter Value in Part SPI_MISO Old=Ø1.0mm,SMD New=Test point
+Change Value of Parameter Value in Part SPI_MOSI Old=Ø1.0mm,SMD New=Test point
+Added Parameter Footprint Doc=Solderbridge to Part SB5
+Added Parameter Part Number=Solderbridge to Part SB5

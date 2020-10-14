@@ -1,0 +1,275 @@
+Change Component Footprint: Designator=L1 Old Footprint=INDC3225X22N New Footprint=L2016X12N
+Change Component Comment : Designator=3v3 Old Comment=Ø1.0mm,SMD New Comment=Test point
+Change Component Comment : Designator=CTRL Old Comment=Ø1.0mm,SMD New Comment=Test point
+Change Component Comment : Designator=D/CX Old Comment=Ø1.0mm,SMD New Comment=Test point
+Change Component Comment : Designator=EN1 Old Comment=Ø1.0mm,SMD New Comment=Test point
+Change Component Comment : Designator=INT1 Old Comment=Ø1.0mm,SMD New Comment=Test point
+Change Component Comment : Designator=LED+ Old Comment=Ø1.0mm,SMD New Comment=Test point
+Change Component Comment : Designator=LED- Old Comment=Ø1.0mm,SMD New Comment=Test point
+Change Component Comment : Designator=RESET1 Old Comment=Ø1.0mm,SMD New Comment=Test point
+Change Component Comment : Designator=SPI_CLK Old Comment=Ø1.0mm,SMD New Comment=Test point
+Change Component Comment : Designator=SPI_CS Old Comment=Ø1.0mm,SMD New Comment=Test point
+Change Component Comment : Designator=SPI_MISO Old Comment=Ø1.0mm,SMD New Comment=Test point
+Change Component Comment : Designator=SPI_MOSI Old Comment=Ø1.0mm,SMD New Comment=Test point
+Change Component Kind : Designator=P5 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=P4 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=P3 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=R9 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=R7 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=R5 Old Kind=Standard New Kind=Standard (No BOM)
+Change component parameters: Designator = "R11"; Footprint = "R0402"; UniqueID = "\GRWTLYJS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/asj/cr10-472-jk/54393.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ASJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "CR10-472-JK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "Thick Film Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "5% 0,063W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = "WRC40976"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P2"; Footprint = "Header  10way SMT 2.54mm 1row"; UniqueID = "\SNTCYRPQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/search-result/qs:10129380-910002ALF/reset:0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Amphenol ICC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "10129380-910002ALF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "SMT Header"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "10 pos. 2,54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = "10129380910002ALF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10129380-910002ALF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "R0402"; UniqueID = "\LXBSRATA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/asj/cr10-105-jk/51971.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ASJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "CR10-105-JK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "Thick Film Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "5% 0,063W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = "WRC35254"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "R0402"; UniqueID = "\NODQFUJN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/asj/cr10-472-jk/54393.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ASJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "CR10-472-JK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "Thick Film Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "5% 0,063W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = "WRC41427"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "R0402"; UniqueID = "\ITFYDAFV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/asj/cr10-472-jk/54393.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ASJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "CR10-472-JK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "Thick Film Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "5% 0,063W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = "WRC41427"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3"; Footprint = "Header  8way SMT 2.54mm 1row"; UniqueID = "\ZXRZXVBC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/search-result/qs:10129380-908002ALF/reset:0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Amphenol ICC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "10129380-908002ALF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "SMT Header"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "8 pos. 2,54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = "10129380908002ALF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10129380-908002ALF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "C0402"; UniqueID = "\LYDPIRYD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/murata/grm155r61a225ke01d/12952430.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "GRM155R61A225KE01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "Ceramic Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X5R, 10V, 10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = "KKH1032"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "C0402"; UniqueID = "\KIEPVGGJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/murata/grm155r61a225ke01d/12952430.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "GRM155R61A225KE01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "Ceramic Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X5R, 10V, 10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = "KKH1032"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "c0402"; UniqueID = "\YXKMWLHR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/samsung+em/cl05a475kp5nrnc/32126.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "CL05A475KP5NRNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "Ceramic Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X5R, 10V, 10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = "KKS2214"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7"; Footprint = "R0402"; UniqueID = "\JZTNCRVV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "Not mounted"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = "WRC40976"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9"; Footprint = "R0402"; UniqueID = "\SBLXOOGR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "Not mounted"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = "WRC40976"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P4"; Footprint = "Header  8way SMT 2.54mm 1row"; UniqueID = "\DUKUPGYW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/search-result/qs:10129380-908002ALF/reset:0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Amphenol ICC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "10129380-908002ALF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "SMT Header"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "8 pos. 2,54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = "10129380908002ALF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10129380-908002ALF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P5"; Footprint = "Header  6way SMT 2.54mm 1row"; UniqueID = "\ETATMRLD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/search-result/qs:10129380-906002BLF/reset:0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Amphenol ICC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "10129380-906002BLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "SMT Header"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "6 pos. 2,54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = "10129380908002ALF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10129380-906002BLF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "R0402"; UniqueID = "\RZPTZZHB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "Not mounted"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LD1"; Footprint = "LCD MODULE YB-TG240320C243A-C-A0"; UniqueID = "\KJPUMTYO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/index.php?m=oc&action=nothingfound&qs=YB-TG240320C243A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YEEBO GROUP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "YB-TG240320C243A-C-A0_1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "MODULE ASSEMBLY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "LCD with capacitive touch keys"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "YB-TG240320C243A-C-A0_1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R_FB1"; Footprint = "R0402"; UniqueID = "\NVFVQHSA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/asj/cr10-10r0-fk/52610.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ASJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "CR10-10R0-FK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "Thick Film Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "1% 0,063W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = "WRC36380"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P1"; Footprint = "FPC-39-0.3mm"; UniqueID = "\CZBHILMN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/search-result/qs:5035663902/reset:0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "5035663902"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "FPC Connector, 0.30mm Pitch, Right-Angle, Bottom Contact, 0.95mm Height, 39 Circuits, Gold over Nickel Plating"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "SMT, 0,3mm pitch 39 circuits"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = "5035663902"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5035663902"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC1"; Footprint = "SON65P200X200X61-7N"; UniqueID = "\PBBAVWNN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.diodes.com/search/?q=AL3050&t=keyword&action_results=Go"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/search-result/qs:AL3050FDC-7/reset:0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "AL3050FDC-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "driver Step-up"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "2.7-5.5 to 30V 40mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = "LEDDRV1525"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "AL3050FDC-7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1"; Footprint = "VQFN020V4040 - 0.3mm holes"; UniqueID = "\EKZVCMVJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/search-result/qs:BU21077MUV/reset:0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Rohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "BU21077MUV-E2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "Capacitive Switch Controller"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "8-CH I2C 2.7-5.5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = "BU21077MUV-E2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "BU21077MUV-E2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SB1"; Footprint = "Solderbridge_Shorted"; UniqueID = "\KEQIURRF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Solderbridge"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SB2"; Footprint = "Solderbridge"; UniqueID = "\SOTERDQZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Solderbridge"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SB3"; Footprint = "Solderbridge"; UniqueID = "\XAFJVELT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Solderbridge"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SB4"; Footprint = "Solderbridge"; UniqueID = "\SQVVEWVW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Solderbridge"; VariantName = "[No Variations]"
+Change component parameters: Designator = "3v3"; Footprint = "TP_SMD_Ø1.0mm"; UniqueID = "\QAMGYBHA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CTRL"; Footprint = "TP_SMD_Ø1.0mm"; UniqueID = "\FQBXQHBJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D/CX"; Footprint = "TP_SMD_Ø1.0mm"; UniqueID = "\FUWDMMOK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "EN1"; Footprint = "TP_SMD_Ø1.0mm"; UniqueID = "\VTYXMSEH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "INT1"; Footprint = "TP_SMD_Ø1.0mm"; UniqueID = "\GKOWYHAS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED+"; Footprint = "TP_SMD_Ø1.0mm"; UniqueID = "\YQCUZWHG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED-"; Footprint = "TP_SMD_Ø1.0mm"; UniqueID = "\YPTMNSBW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RESET1"; Footprint = "TP_SMD_Ø1.0mm"; UniqueID = "\SJQBCTIA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SPI_CLK"; Footprint = "TP_SMD_Ø1.0mm"; UniqueID = "\WYKHTEYL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SPI_CS"; Footprint = "TP_SMD_Ø1.0mm"; UniqueID = "\QBVFKXUD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SPI_MISO"; Footprint = "TP_SMD_Ø1.0mm"; UniqueID = "\SAIDHWSE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SPI_MOSI"; Footprint = "TP_SMD_Ø1.0mm"; UniqueID = "\NNFXBPXA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P6"; Footprint = "CONN FFC BOTTOM 8POS 0.50MM"; UniqueID = "\TWPDMJER"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "0528920833"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "SMT, 0,5mm 8 circuits bottom right angle"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1"; Footprint = "L2016X12N"; UniqueID = "\TOJLSMFK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/search-result/qs:BWVC00201612220M00/reset:0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Chilisin Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "BWVC00201612220M00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "Inductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "2x1.6x1.2mm Irms 0.36A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uH"; VariantName = "[No Variations]"

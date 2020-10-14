@@ -1,0 +1,209 @@
+Added Component: Designator=C1(0402-A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/search-result/qs:KKK23619/reset:0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "CC0402KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "X7R, 50V, 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "KKK23619"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=P11(FPC-39)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 2"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P12(CONN FFC BOTTOM 8POS 0.50MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Actuator Material"; Value = "Glass,Polyphenylene"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/29758/528923033-sd-29758739.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/29758/528923033-sd-29758739.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/46637/528922433-sd-46637399.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/46637/528922433-sd-46637399.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0528920833"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.02inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1 = 0.89000, 10 = 0.77800, 25 = 0.73280, 50 = 0.70200, 100 = 0.67160, 250 = 0.61052, 500 = 0.54946 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "5457"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM11082CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Type"; Value = "Straight"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/asj/cr10-103-jk/54295.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ASJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "CR10-103-JK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Thick Film Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "5% 0,063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "WRC40976"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/asj/cr10-103-jk/54295.html"; VariantName = "RUT_LCD_SHIELD"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ASJ"; VariantName = "RUT_LCD_SHIELD"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "CR10-103-JK"; VariantName = "RUT_LCD_SHIELD"
+Add component (AddParameter): Name = "Part Description"; Value = "Thick Film Resistor"; VariantName = "RUT_LCD_SHIELD"
+Add component (AddParameter): Name = "Specification"; Value = "5% 0,063W"; VariantName = "RUT_LCD_SHIELD"
+Add component (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "RUT_LCD_SHIELD"
+Add component (AddParameter): Name = "Supplier part number"; Value = "WRC40976"; VariantName = "RUT_LCD_SHIELD"
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "RUT_LCD_SHIELD"
+Added Component: Designator=R2(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/asj/cr10-103-jk/54295.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ASJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "CR10-103-JK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Thick Film Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "5% 0,063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "WRC40976"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/asj/cr10-103-jk/54295.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ASJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "CR10-103-JK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Thick Film Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "5% 0,063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "WRC40976"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/asj/cr10-103-jk/54295.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ASJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "CR10-103-JK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Thick Film Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "5% 0,063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "WRC40976"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/asj/cr10-103-jk/54295.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ASJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "CR10-103-JK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Thick Film Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "5% 0,063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "WRC40976"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/asj/cr10-103-jk/54295.html"; VariantName = "RUT_LCD_SHIELD"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ASJ"; VariantName = "RUT_LCD_SHIELD"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "CR10-103-JK"; VariantName = "RUT_LCD_SHIELD"
+Add component (AddParameter): Name = "Part Description"; Value = "Thick Film Resistor"; VariantName = "RUT_LCD_SHIELD"
+Add component (AddParameter): Name = "Specification"; Value = "5% 0,063W"; VariantName = "RUT_LCD_SHIELD"
+Add component (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "RUT_LCD_SHIELD"
+Add component (AddParameter): Name = "Supplier part number"; Value = "WRC40976"; VariantName = "RUT_LCD_SHIELD"
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "RUT_LCD_SHIELD"
+Added Component: Designator=R6(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/asj/cr10-103-jk/54295.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ASJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "CR10-103-JK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Thick Film Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "5% 0,063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "WRC40976"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/asj/cr10-103-jk/54295.html"; VariantName = "RUT_LCD_SHIELD"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ASJ"; VariantName = "RUT_LCD_SHIELD"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "CR10-103-JK"; VariantName = "RUT_LCD_SHIELD"
+Add component (AddParameter): Name = "Part Description"; Value = "Thick Film Resistor"; VariantName = "RUT_LCD_SHIELD"
+Add component (AddParameter): Name = "Specification"; Value = "5% 0,063W"; VariantName = "RUT_LCD_SHIELD"
+Add component (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "RUT_LCD_SHIELD"
+Add component (AddParameter): Name = "Supplier part number"; Value = "WRC40976"; VariantName = "RUT_LCD_SHIELD"
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "RUT_LCD_SHIELD"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=3V3 Pin=C1-2
+Added Pin To Net: NetName=LED_A Pin=P11-1
+Added Pin To Net: NetName=LED_K Pin=P11-2
+Added Pin To Net: NetName=3V3 Pin=P11-3
+Added Pin To Net: NetName=SPI_MISO Pin=P11-4
+Added Pin To Net: NetName=TE Pin=P11-5
+Added Pin To Net: NetName=GND Pin=P11-6
+Added Pin To Net: NetName=GND Pin=P11-7
+Added Pin To Net: NetName=GND Pin=P11-8
+Added Pin To Net: NetName=GND Pin=P11-9
+Added Pin To Net: NetName=GND Pin=P11-10
+Added Pin To Net: NetName=GND Pin=P11-11
+Added Pin To Net: NetName=GND Pin=P11-12
+Added Pin To Net: NetName=GND Pin=P11-13
+Added Pin To Net: NetName=GND Pin=P11-14
+Added Pin To Net: NetName=GND Pin=P11-15
+Added Pin To Net: NetName=GND Pin=P11-16
+Added Pin To Net: NetName=GND Pin=P11-17
+Added Pin To Net: NetName=GND Pin=P11-18
+Added Pin To Net: NetName=GND Pin=P11-19
+Added Pin To Net: NetName=GND Pin=P11-20
+Added Pin To Net: NetName=GND Pin=P11-21
+Added Pin To Net: NetName=GND Pin=P11-22
+Added Pin To Net: NetName=GND Pin=P11-23
+Added Pin To Net: NetName=GND Pin=P11-24
+Added Pin To Net: NetName=GND Pin=P11-25
+Added Pin To Net: NetName=GND Pin=P11-27
+Added Pin To Net: NetName=ENABLE Pin=P11-28
+Added Pin To Net: NetName=SPI_CS Pin=P11-34
+Added Pin To Net: NetName=RESET Pin=P11-35
+Added Pin To Net: NetName=3V3 Pin=P11-38
+Added Pin To Net: NetName=GND Pin=P12-1
+Added Pin To Net: NetName=KEY1 Pin=P12-2
+Added Pin To Net: NetName=KEY2 Pin=P12-3
+Added Pin To Net: NetName=KEY3 Pin=P12-4
+Added Pin To Net: NetName=KEY4 Pin=P12-5
+Added Pin To Net: NetName=KEY5 Pin=P12-6
+Added Pin To Net: NetName=GND Pin=P12-8
+Added Pin To Net: NetName=3V3 Pin=R1-1
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Pin To Net: NetName=3V3 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetP11_26 Pin=P11-26
+Added Net: Name=NetP11_26
+Added Pin To Net: NetName=NetP11_29 Pin=P11-29
+Added Net: Name=NetP11_29
+Added Pin To Net: NetName=NetP11_30 Pin=P11-30
+Added Net: Name=NetP11_30
+Added Pin To Net: NetName=NetP11_31 Pin=P11-31
+Added Net: Name=NetP11_31
+Added Pin To Net: NetName=NetP11_32 Pin=P11-32
+Added Net: Name=NetP11_32
+Added Pin To Net: NetName=NetP11_36 Pin=P11-36
+Added Pin To Net: NetName=NetP11_36 Pin=R1-2
+Added Pin To Net: NetName=NetP11_36 Pin=R4-1
+Added Net: Name=NetP11_36
+Added Pin To Net: NetName=NetP11_37 Pin=P11-37
+Added Pin To Net: NetName=NetP11_37 Pin=R3-2
+Added Pin To Net: NetName=NetP11_37 Pin=R6-2
+Added Net: Name=NetP11_37
+Added Pin To Net: NetName=NetP11_39 Pin=P11-39
+Added Pin To Net: NetName=NetP11_39 Pin=R2-1
+Added Pin To Net: NetName=NetP11_39 Pin=R5-1
+Added Net: Name=NetP11_39
+Added Pin To Net: NetName=RS Pin=P11-33
+Added Net: Name=RS
+Added Member To Class: ClassName=LCD Member=Component C1 Cap Semi
+Added Member To Class: ClassName=LCD Member=Component P11 P
+Added Member To Class: ClassName=LCD Member=Component P12 0528920833
+Added Member To Class: ClassName=LCD Member=Component R1 Res2
+Added Member To Class: ClassName=LCD Member=Component R2 Res2
+Added Member To Class: ClassName=LCD Member=Component R3 Res2
+Added Member To Class: ClassName=LCD Member=Component R4 Res2
+Added Member To Class: ClassName=LCD Member=Component R5 Res2
+Added Member To Class: ClassName=LCD Member=Component R6 Res2

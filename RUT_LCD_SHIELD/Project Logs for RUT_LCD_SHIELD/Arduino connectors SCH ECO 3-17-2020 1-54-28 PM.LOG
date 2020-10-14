@@ -1,0 +1,4 @@
+Change Component Kind : Designator=R1 Old Kind=Standard (No BOM) New Kind=Standard
+Change Pin Designator/Name:  Old Designator=R3-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R6-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R6-2 Old Name=2 New Designator =1 New Name=1

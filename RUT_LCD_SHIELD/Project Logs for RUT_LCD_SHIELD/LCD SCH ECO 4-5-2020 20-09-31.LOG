@@ -1,0 +1,96 @@
+Removed Parameter Actuator Material:Glass,Polyphenylene from Part P6
+Removed Parameter Artikkelnr Noca:N.A. from Part 3v3
+Removed Parameter Artikkelnr Noca:N.A. from Part CTRL
+Removed Parameter Artikkelnr Noca:N.A. from Part D/CX
+Removed Parameter Artikkelnr Noca:N.A. from Part EN1
+Removed Parameter Artikkelnr Noca:N.A. from Part INT1
+Removed Parameter Artikkelnr Noca:N.A. from Part LED+
+Removed Parameter Artikkelnr Noca:N.A. from Part LED-
+Removed Parameter Artikkelnr Noca:N.A. from Part RESET1
+Removed Parameter Artikkelnr Noca:N.A. from Part SB1
+Removed Parameter Artikkelnr Noca:N.A. from Part SB2
+Removed Parameter Artikkelnr Noca:N.A. from Part SB3
+Removed Parameter Artikkelnr Noca:N.A. from Part SB4
+Removed Parameter Artikkelnr Noca:N.A. from Part SPI_CLK
+Removed Parameter Artikkelnr Noca:N.A. from Part SPI_CS
+Removed Parameter Artikkelnr Noca:N.A. from Part SPI_MISO
+Removed Parameter Artikkelnr Noca:N.A. from Part SPI_MOSI
+Removed Parameter Assembly: from Part 3v3
+Removed Parameter Assembly: from Part CTRL
+Removed Parameter Assembly: from Part D/CX
+Removed Parameter Assembly: from Part EN1
+Removed Parameter Assembly: from Part INT1
+Removed Parameter Assembly: from Part LED+
+Removed Parameter Assembly: from Part LED-
+Removed Parameter Assembly: from Part RESET1
+Removed Parameter Assembly: from Part SB1
+Removed Parameter Assembly: from Part SB2
+Removed Parameter Assembly: from Part SB3
+Removed Parameter Assembly: from Part SB4
+Removed Parameter Assembly: from Part SPI_CLK
+Removed Parameter Assembly: from Part SPI_CS
+Removed Parameter Assembly: from Part SPI_MISO
+Removed Parameter Assembly: from Part SPI_MOSI
+Removed Parameter Contact Material:Bronze from Part P6
+Removed Parameter Contact Plating:Tin from Part P6
+Removed Parameter Flammability Rating:UL94 V-0 from Part P6
+Removed Parameter Housing Material:Nylon from Part P6
+Removed Parameter LatestRevisionNote:IPC-7351 Footprint Added. from Part L1
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R_FB1
+Removed Parameter Lead Free:Lead Free from Part L1
+Removed Parameter Length:3.2mm from Part L1
+Removed Parameter Mount:Surface Mount from Part L1
+Removed Parameter Mount:Surface Mount from Part P6
+Removed Parameter Mount:Surface Mount from Part U1
+Removed Parameter Number of Contacts:8 from Part P6
+Removed Parameter Number of Positions:8 from Part P6
+Removed Parameter Number of Rows:1 from Part P6
+Removed Parameter Orientation:Right Angle from Part P6
+Removed Parameter PackageDescription:Chip Inductor from Part L1
+Removed Parameter Package Quantity:1000 from Part P6
+Removed Parameter Package Quantity:2000 from Part L1
+Removed Parameter Packaging:Tape and Reel from Part L1
+Removed Parameter Packaging:Tape and Reel from Part P6
+Removed Parameter Packaging:Tape and Reel from Part U1
+Removed Parameter Parameter 1:* from Part P1
+Removed Parameter Parameter 2:* from Part P1
+Removed Parameter Partnumber:BWVC00201610220200 from Part L1
+Removed Parameter Pitch:0.02inch from Part P6
+Removed Parameter Pricing 1:1 = 0.33000, 10 = 0.29700, 100 = 0.20430, 500 = 0.17458, 1000 = 0.13372 (USD) from Part L1
+Removed Parameter Pricing 1:1 = 0.89000, 10 = 0.77800, 25 = 0.73280, 50 = 0.70200, 100 = 0.67160, 250 = 0.61052, 500 = 0.54946 (USD) from Part P6
+Removed Parameter Pricing 1:1 = 2.09000, 10 = 1.87600, 25 = 1.77000, 100 = 1.50800, 250 = 1.41600, 500 = 1.23900, 1000 = 1.02660 (USD) from Part U1
+Removed Parameter Radiation Hardening:No from Part L1
+Removed Parameter Radiation Hardening:No from Part P6
+Removed Parameter RoHS:No from Part U1
+Removed Parameter RoHS:Yes from Part L1
+Removed Parameter RoHS:Yes from Part P6
+Removed Parameter Self Resonant Frequency:19MHz from Part L1
+Removed Parameter Shielding:Unshielded from Part L1
+Removed Parameter Stock 1:2496 from Part U1
+Removed Parameter Stock 1:5457 from Part P6
+Removed Parameter Stock 1:27069 from Part L1
+Removed Parameter Termination:SMD/SMT from Part L1
+Removed Parameter Termination:Solder from Part P6
+Removed Parameter Test Frequency:1MHz from Part L1
+Removed Parameter Tolerance:10% from Part L1
+Removed Parameter Voltage Rating:50V from Part P6
+Removed Parameter Weight:0.002116oz from Part L1
+Removed Parameter Width:2.5mm from Part L1
+Removed Parameter Wire/Cable Type:Straight from Part P6
+Change Value of Parameter Comments in Part 3v3 Old=Note New=Comments
+Change Value of Parameter Comments in Part CTRL Old=Note New=Comments
+Change Value of Parameter Comments in Part D/CX Old=Note New=Comments
+Change Value of Parameter Comments in Part EN1 Old=Note New=Comments
+Change Value of Parameter Manufacturer in Part IC1 Old=Manufacturer_Name New=Manufacturer
+Change Value of Parameter Comments in Part INT1 Old=Note New=Comments
+Change Value of Parameter Comments in Part LED+ Old=Note New=Comments
+Change Value of Parameter Comments in Part LED- Old=Note New=Comments
+Change Value of Parameter Comments in Part RESET1 Old=Note New=Comments
+Change Value of Parameter Comments in Part SB1 Old=Note New=Comments
+Change Value of Parameter Comments in Part SB2 Old=Note New=Comments
+Change Value of Parameter Comments in Part SB3 Old=Note New=Comments
+Change Value of Parameter Comments in Part SB4 Old=Note New=Comments
+Change Value of Parameter Comments in Part SPI_CLK Old=Note New=Comments
+Change Value of Parameter Comments in Part SPI_CS Old=Note New=Comments
+Change Value of Parameter Comments in Part SPI_MISO Old=Note New=Comments
+Change Value of Parameter Comments in Part SPI_MOSI Old=Note New=Comments

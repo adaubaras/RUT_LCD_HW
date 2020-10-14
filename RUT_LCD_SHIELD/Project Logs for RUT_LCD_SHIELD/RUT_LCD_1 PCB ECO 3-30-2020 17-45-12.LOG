@@ -1,0 +1,62 @@
+Added Component: Designator=P1(FPC-39-0.3mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 2"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LED_A Pin=P1-1
+Added Pin To Net: NetName=LED_K Pin=P1-2
+Added Pin To Net: NetName=3V3 Pin=P1-3
+Added Pin To Net: NetName=SPI_MISO Pin=P1-4
+Added Pin To Net: NetName=TE Pin=P1-5
+Added Pin To Net: NetName=SPI_MOSI Pin=P1-24
+Added Pin To Net: NetName=GND Pin=P1-25
+Added Pin To Net: NetName=GND Pin=P1-27
+Added Pin To Net: NetName=ENABLE Pin=P1-28
+Added Pin To Net: NetName=D/CX Pin=P1-32
+Added Pin To Net: NetName=SPI_CLK Pin=P1-33
+Added Pin To Net: NetName=SPI_CS Pin=P1-34
+Added Pin To Net: NetName=RESET Pin=P1-35
+Added Pin To Net: NetName=3V3 Pin=P1-38
+Added Pin To Net: NetName=NetP1_6 Pin=P1-6
+Added Pin To Net: NetName=NetP1_6 Pin=P1-7
+Added Pin To Net: NetName=NetP1_6 Pin=P1-8
+Added Pin To Net: NetName=NetP1_6 Pin=P1-9
+Added Pin To Net: NetName=NetP1_6 Pin=P1-10
+Added Pin To Net: NetName=NetP1_6 Pin=P1-11
+Added Pin To Net: NetName=NetP1_6 Pin=P1-12
+Added Pin To Net: NetName=NetP1_6 Pin=P1-13
+Added Pin To Net: NetName=NetP1_6 Pin=P1-14
+Added Pin To Net: NetName=NetP1_6 Pin=P1-15
+Added Pin To Net: NetName=NetP1_6 Pin=P1-16
+Added Pin To Net: NetName=NetP1_6 Pin=P1-17
+Added Pin To Net: NetName=NetP1_6 Pin=P1-18
+Added Pin To Net: NetName=NetP1_6 Pin=P1-19
+Added Pin To Net: NetName=NetP1_6 Pin=P1-20
+Added Pin To Net: NetName=NetP1_6 Pin=P1-21
+Added Pin To Net: NetName=NetP1_6 Pin=P1-22
+Added Pin To Net: NetName=NetP1_6 Pin=P1-23
+Added Net: Name=NetP1_6
+Added Pin To Net: NetName=NetP1_26 Pin=P1-26
+Added Pin To Net: NetName=NetP1_26 Pin=TP1-1
+Added Net: Name=NetP1_26
+Added Pin To Net: NetName=NetP1_29 Pin=P1-29
+Added Pin To Net: NetName=NetP1_29 Pin=TP2-1
+Added Net: Name=NetP1_29
+Added Pin To Net: NetName=NetP1_30 Pin=P1-30
+Added Pin To Net: NetName=NetP1_30 Pin=TP3-1
+Added Net: Name=NetP1_30
+Added Pin To Net: NetName=NetP1_31 Pin=P1-31
+Added Pin To Net: NetName=NetP1_31 Pin=TP4-1
+Added Net: Name=NetP1_31
+Added Pin To Net: NetName=NetP1_36 Pin=P1-36
+Added Pin To Net: NetName=NetP1_36 Pin=R4-2
+Added Pin To Net: NetName=NetP1_36 Pin=R7-1
+Added Net: Name=NetP1_36
+Added Pin To Net: NetName=NetP1_37 Pin=P1-37
+Added Pin To Net: NetName=NetP1_37 Pin=R6-2
+Added Pin To Net: NetName=NetP1_37 Pin=R9-2
+Added Net: Name=NetP1_37
+Added Pin To Net: NetName=NetP1_39 Pin=P1-39
+Added Pin To Net: NetName=NetP1_39 Pin=R5-2
+Added Pin To Net: NetName=NetP1_39 Pin=R8-1
+Added Net: Name=NetP1_39
+Added Member To Class: ClassName=LCD Member=Component P1 P

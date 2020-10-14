@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [RUT_LCD_1.PcbDoc]
+   Generated File[Pick Place for RUT_LCD_1.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 17:47:28 On 4/6/2020

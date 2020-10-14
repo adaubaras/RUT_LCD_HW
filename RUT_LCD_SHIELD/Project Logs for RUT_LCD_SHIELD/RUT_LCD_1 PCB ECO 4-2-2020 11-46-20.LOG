@@ -1,0 +1,8 @@
+Added Component: Designator=LD1(LCD MODULE YB-TG240320C243A-C-A0)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=LCD Member=Component C7 Cap Semi
+Added Member To Class: ClassName=LCD Member=Component LD1 YB-TG240320C243A-C-A0_1
+Added Member To Class: ClassName=LCD Member=Component P2 DIGITAL 1
+Added Member To Class: ClassName=LCD Member=Component R4 Res2
+Change Room Name: Old Name=USBPD_Sink New Name=LCD
+Change Room Scope: Old Scope=InComponentClass('USBPD_Sink') New Scope=InComponentClass('LCD')

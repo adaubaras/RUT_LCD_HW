@@ -1,0 +1,37 @@
+Change Component Footprint: Designator=R_FB1 Old Footprint=6-0805_N New Footprint=R0402
+Change Component Footprint: Designator=C1 Old Footprint=0402-A New Footprint=c0402
+Change Component Footprint: Designator=C2 Old Footprint=CASE-B New Footprint=c0402
+Change component parameters: Designator = "C2"; Footprint = "c0402"; UniqueID = "\YXKMWLHR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No."; Value = "0402ZD475MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "Ceramic Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X5R, 10V, 20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier part number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R_FB1"; Footprint = "R0402"; UniqueID = "\NVFVQHSA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link"; Value = "https://eu.mouser.com/ProductDetail/Vishay-Beyschlag/MCS04020C1009FE000?qs=sGAEpiMZZMu61qfTUdNhG%2FwwRiJvfR8neD9ATJQ45Og%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "Thin Film Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "1% 0,063W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Link"; Value = "https://www.rutronik24.com/product/asj/cr10-103-jk/54295.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ASJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "CR10-103-JK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Thick Film Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "5% 0,063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rutronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "WRC40976"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET Pin=R10-1
+Added Pin To Net: NetName=3V3 Pin=R10-2
+Added Member To Class: ClassName=LCD Member=Component R10 Res2
+Added Member To Class: ClassName=LCD Member=Component U1 BU21077MUV

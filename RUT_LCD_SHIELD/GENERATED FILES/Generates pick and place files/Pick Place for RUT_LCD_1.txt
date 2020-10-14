@@ -1,0 +1,40 @@
+Altium Designer Pick and Place Locations
+C:\Users\IUS\Documents\PROJECTS\RUT_LCD_SHIELD\RUT_LCD_SHIELD\GENERATED FILES\Generates pick and place files\Pick Place for RUT_LCD_1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       06/04/20
+Time:       17:47
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                 Layer       Footprint                        Center-X(mil) Center-Y(mil) Rotation Description                           
+R11        4.7K                    TopLayer    R0402                            950.642       -720.472      270      ""                                    
+LD1        YB-TG240320C243A-C-A0_1 BottomLayer LCD_MODULE_YB-TG240320C243A-C-A0 -3038.780     -2663.189     270      YB-TG240320C243A-C-A0_1               
+P2         "DIGITAL 1"             TopLayer    Header__10way_SMT_2.54mm_1row    639.961       -950.000      180      ""                                    
+R10        Res2                    TopLayer    R0402                            1675.197      -401.969      90       ""                                    
+U1         BU21077MUV              TopLayer    VQFN020V4040_-_0.3mm_holes       1717.716      -102.362      90       "Capacitive Switch Controller IC"     
+P1         P                       TopLayer    FPC-39-0.3MM                     1357.480      -425.788      360      "FPC CONNECTOR OF LCD MODULE"         
+GND        "GND Test Point"        TopLayer    5019_keystone                    2059.839      535.036       0        "SMD Test Point"                      
+R3         4.7K                    TopLayer    R0402                            1785.433      -264.567      360      ""                                    
+R2         4.7K                    TopLayer    R0402                            1872.835      -264.173      360      ""                                    
+R1         1M                      TopLayer    R0402                            1863.386      -122.441      270      ""                                    
+C5         1uF                     TopLayer    C0402                            1681.890      -245.669      180      "Capacitor (Semiconductor SIM Model)" 
+C4         1uF                     TopLayer    C0402                            1559.842      -159.843      90       "Capacitor (Semiconductor SIM Model)" 
+C3         2.2uF                   TopLayer    C0402                            1561.024      -78.740       270      "Capacitor (Semiconductor SIM Model)" 
+P5         ANALOG                  TopLayer    HEADER__6WAY_SMT_2.54MM_1ROW     1699.803      950.000       0        ""                                    
+P4         "DIGITAL 2"             TopLayer    HEADER__8WAY_SMT_2.54MM_1ROW     1600.000      -950.000      180      ""                                    
+P3         POWER                   TopLayer    HEADER__8WAY_SMT_2.54MM_1ROW     899.803       950.000       0        ""                                    
+IC1        AL3050FDC-7             BottomLayer SON65P200X200X61-7N              907.087       -356.299      90       "Integrated Circuit"                  
+L1         ""                      TopLayer    L2016X12N                        770.078       -356.693      90       Inductor                              
+R_FB1      Res1                    TopLayer    R0402                            997.244       -337.402      90       Resistor                              
+C1         "Cap Semi"              TopLayer    c0402                            906.693       -470.473      90       "Capacitor (Semiconductor SIM Model)" 
+P6         0528920833              TopLayer    CONN_FFC_BOTTOM_8POS_0.50MM      1680.921      277.559       270      "CONN FFC BOTTOM 8POS 0.50MM R/A"     
+R4         Res2                    TopLayer    R0402                            1595.669      -265.354      180      ""                                    
+R6         Res2                    TopLayer    R0402                            1830.709      -401.575      270      ""                                    
+R8         Res2                    TopLayer    R0402                            1736.433      -482.623      270      ""                                    
+C2         "Cap Semi"              TopLayer    c0402                            998.032       -514.173      270      "Capacitor (Semiconductor SIM Model)" 
+C6         "Cap Semi"              TopLayer    C0402                            997.244       -425.591      270      "Capacitor (Semiconductor SIM Model)" 
+C7         "Cap Semi"              TopLayer    C0402                            861.811       -470.079      270      "Capacitor (Semiconductor SIM Model)" 

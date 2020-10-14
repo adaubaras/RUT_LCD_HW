@@ -1,0 +1,33 @@
+Added Component: Designator=U1(VQFN020V4040)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.rohm.com/datasheet/BU21077MUV/bu21077muv-e.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.rohm.com/datasheet/BU21077MUV/bu21077muv-e.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BU21077MUV-E2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-20°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1 = 2.09000, 10 = 1.87600, 25 = 1.77000, 100 = 1.50800, 250 = 1.41600, 500 = 1.23900, 1000 = 1.02660 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2496"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=R5-1
+Added Pin To Net: NetName=3V3 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=SCL Pin=U1-4
+Added Pin To Net: NetName=SDA Pin=U1-5
+Added Pin To Net: NetName=INT Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=KEY5 Pin=U1-12
+Added Pin To Net: NetName=KEY4 Pin=U1-13
+Added Pin To Net: NetName=KEY3 Pin=U1-14
+Added Pin To Net: NetName=KEY2 Pin=U1-16
+Added Pin To Net: NetName=KEY1 Pin=U1-17
+Added Pin To Net: NetName=NetC3_2 Pin=U1-18
+Added Pin To Net: NetName=NetC4_2 Pin=U1-19
+Added Pin To Net: NetName=3V3 Pin=U1-20
+Added Member To Class: ClassName=LCD Member=Component U1 BU21077MUV
